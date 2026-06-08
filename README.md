@@ -1,6 +1,3 @@
-# AI-agent-homework
-AUO AI Agent實戰班課後作業
-
 # AI Agent Homework (1-4)
 
 This repository implements homework 1-4 from `課後作業_v1.pdf` using Python.
